@@ -1,0 +1,8 @@
+{
+  "name": "STUDIO PRACTICE",
+  "description": "A focused music practice tracker for jazz piano students. Balance your keys, scales, and vocabulary with structured timing and weekly progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
